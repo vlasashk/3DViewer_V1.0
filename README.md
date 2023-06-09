@@ -1,6 +1,6 @@
 ## Introduction
 
-Implementation of a program to view 3D wireframe models (3D Viewer) in the C programming language. The models themselves are loaded from .obj files and be viewable on the screen with the ability to rotate, scale and translate.
+Implementation of a program to view 3D wireframe models (3D Viewer) in the C programming language. The models themselves are loaded from .obj files and can be viewable on the screen with the ability to rotate, scale and translate.
 
 ![3D_Viewer main window](misc/3D_Viewer.png)
 
